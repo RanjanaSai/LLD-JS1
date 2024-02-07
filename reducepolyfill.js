@@ -28,5 +28,4 @@ if(!Array.prototype.myReduce){
         } 
     }
        
-        const arr = [1, 2, 3, 4]; 
-        console.log(arr.myReduce((total, item) => total + item)); 
+       
